@@ -1,11 +1,11 @@
 class MyClass {
   void add(int x, int y)
   {
-    System.out.println(a+b);
+    System.out.println("Sum of two numbers" &a+b);
   }
   void sub(int x, int y)
   {
-    System.out.println(a-b);
+    System.out.println("Subtracting of two numbers" &a-b);
   }
   void mul(int x, int y)
   {
