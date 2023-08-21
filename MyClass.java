@@ -7,5 +7,12 @@ class MyClass {
   {
     System.out.println(a-b);
   }
-
+  void mul(int x, int y)
+  {
+    System.out.println(a*b);
+  }
+  void div(int x, int y)
+  {
+    System.out.println(a%b);
+  }
 }
