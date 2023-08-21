@@ -11,6 +11,15 @@ class MyClass {
   {
     System.out.println(a*b);
   }
+   void multiplication(int x, int y)     // Multiplying two integers
+  {
+    System.out.println(a*b);
+  }
+    void division(int x, int y)     // Multiplying two integers
+  {
+    System.out.println(a*b);
+  
+  }
 <<<<<<< HEAD
 
 =======
