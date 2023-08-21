@@ -1,20 +1,20 @@
 class MyClass {
-  void add(int x, int y)
+  void add(int x, int y)  //adding two integers
   {
     System.out.println("Sum of two numbers" &a+b);
   }
-  void sub(int x, int y)
+  void sub(int x, int y)   //subtracting two integers
   {
     System.out.println("Subtracting of two numbers" &a-b);
   }
-  void mul(int x, int y)
+  void mul(int x, int y)     // Multiplying two integers
   {
     System.out.println(a*b);
   }
 <<<<<<< HEAD
 
 =======
-  void div(int x, int y)
+  void div(int x, int y)     //Dividing two integers
   {
     System.out.println(a/b);
   }
