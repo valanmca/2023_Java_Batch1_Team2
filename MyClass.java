@@ -15,10 +15,13 @@ class MyClass {
   {
     System.out.println(x*y);
   }
-    void division(int x, int y)     // Multiplying two integers
-  {
-    System.out.println(x*y);
+  //   void division(int x, int y)     // Multiplying two integers
+  // {
+  //   System.out.println(x*y);
   
+  // }
+  void division(int x, int y){
+    System.out.println(x*y);
   }
 <<<<<<< HEAD
 
