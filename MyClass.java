@@ -28,4 +28,12 @@ class MyClass {
     System.out.println("Dividing of two integers:" x/y);
   }
 >>>>>>> deee2ca2125b5abf5488f673c205db5c74a941b9
+
+void mdivi(int x,int y){
+  System.out.println(x%y);
+}
+void mDivid(double x, double y)
+{
+  System.out.println(x%y);
+}
 }
